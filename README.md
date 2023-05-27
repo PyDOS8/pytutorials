@@ -12,4 +12,4 @@
 * C++
 * Arduino
 
-If you want to collab on projects with me email me at: eTmullall@outlook.com 
+If you want to collab on projects with me. Email me at: eTmullall@outlook.com 
